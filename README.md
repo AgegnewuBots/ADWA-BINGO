@@ -12,9 +12,22 @@ View your app in AI Studio: https://ai.studio/apps/e3bae54d-1bfe-4a5a-9312-0ca04
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+---
+
+## 👨‍💻 About the Developer
+
+**Agegnewu Alemayehu Tamiru** is an Ethiopian Software Developer and Product Builder.
+
+His work spans **Python, Telegram bots and automation, APIs, FinTech/payment technology, AI-powered applications, web and mobile development, databases, Linux/VPS infrastructure, Docker, and blockchain/Web3**.
+
+- GitHub: [@AgegnewuBots](https://github.com/AgegnewuBots)
+- Telegram: [@Agegnewu0102](https://t.me/Agegnewu0102)
+- PayLens: https://paylens.et
+
+> Building practical software products from Ethiopia.
